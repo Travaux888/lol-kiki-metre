@@ -1,8 +1,21 @@
 {
     "players": [
-        {
-            "name": "MouammarKadhafi",
-            "tag": "8888"
-        }
+        { "name": "MouammarKadhafi", "tag": "8888", "note": "Demande à 26" },
+        { "name": "Ikaechi", "tag": "2069", "note": "Paluche lourde" },
+        { "name": "Séoul Import", "tag": "EUW", "note": "Jaune sous Jaune" },
+        { "name": "Gold At Delaware", "tag": "Fisc", "note": "Evasion fiscale" },
+        { "name": "Crypto Degen", "tag": "EUW", "note": "Ancien simp nouveau player" },
+        { "name": "SnusKiwi", "tag": "9526", "note": "Avg nine hours day tiktok user" },
+        { "name": "ShiDoRii", "tag": "2305", "note": "Combien de VO ajd" },
+        { "name": "CARLYPRIMEAUDIA3", "tag": "AUTO", "note": "Printer king ou biggy blanc" },
+        { "name": "StÉloiLeCalvitié", "tag": "BALD", "note": "Bald and Proud" },
+        { "name": "Bilderberg Gang", "tag": "EUW", "note": "Captain Pat" },
+        { "name": "cordiamort88", "tag": "EUW", "note": "ptn les frères jsuis broke et obèse" },
+        { "name": "Mute Spittah", "tag": "ewx", "note": "Clope et Coca" },
+        { "name": "hop le serpent", "tag": "EUW", "note": "Mike Mikey Mike" },
+        { "name": "TheDirtyVietser", "tag": "OKLM", "note": "AVG hard stuck diamond support player" },
+        { "name": "SnusCaca", "tag": "777", "note": "Mickael debout" },
+        { "name": "Joueur16", "tag": "EUW", "note": "" },
+        { "name": "Joueur17", "tag": "EUW", "note": "" }
     ]
 }
